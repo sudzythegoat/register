@@ -1,0 +1,12 @@
+{
+    "description": "Personal blog/projects",
+    "repo": "https://github.com/sudzythegoat/sudzythegoat.github.io",
+    "owner": {
+        "username": "sudzythegoat",
+        "email": "",
+        "twitter": ""
+    },
+    "record": {
+        "CNAME": "sudzythegoat.github.io"
+    }
+} 
